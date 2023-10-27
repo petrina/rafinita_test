@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0a8d80438d4c4071c645cec156b8abd5",
+    "content-hash": "31807dec2528c0f8ee32a5392656796a",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -1490,11 +1490,11 @@
         },
         {
             "name": "petrina/rafinita-lib",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "git@github.com:petrina/rafinita-lib.git",
-                "reference": "e786b09ffe527d3cd23460d1963a82ebc73982aa"
+                "reference": "ada4b2f4ef3b215aa1bc57e874c9c8de18c6a518"
             },
             "require": {
                 "ext-curl": "*",
@@ -1510,7 +1510,7 @@
                 "MIT"
             ],
             "description": "Rafinita sale lib",
-            "time": "2023-10-26T16:29:10+00:00"
+            "time": "2023-10-27T06:40:38+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
